@@ -17,3 +17,4 @@ To create a portfolio for the world to see.
 Henry Parrish
 
 ## Visual
+![Screencapture](screencapture-portfolio.jpg)
