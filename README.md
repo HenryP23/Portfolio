@@ -18,4 +18,4 @@ Henry Parrish
 
 ## Visual
 
-![Screencapture](screencapture-portfolio.png)
+![Screencapture](PortfolioImage.PNG)
